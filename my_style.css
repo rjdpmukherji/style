@@ -59,9 +59,9 @@ p{ margin-bottom: 1rem }
 
 .gs-header{ color: white !important; -webkit-print-color-adjust: exact; }
 
-.gs-text-header{ background: #00cc99 !important; -webkit-print-color-adjust: exact; }
+.gs-text-header{ background: #2C3859 !important; -webkit-print-color-adjust: exact; }
 
-.gs-table-header{ background: #00cc99 !important; -webkit-print-color-adjust: exact; }
+.gs-table-header{ background: #7F91AC !important; -webkit-print-color-adjust: exact; }
 
 .gs-accent-header{ background: #65201F !important; -webkit-print-color-adjust: exact; }
 
@@ -99,9 +99,3 @@ table.tiny-header tr:first-child{
 .row > .columns:not(:first-child){
 	padding-left: 20px;
 }
-
-td, th { border: 0 }
-
-h1, h5, h6{ margin: 0 }
-
-h6{ font-size: 1.425rem }
